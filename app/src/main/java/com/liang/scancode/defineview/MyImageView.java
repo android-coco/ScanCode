@@ -9,7 +9,7 @@ import android.util.TypedValue;
 import android.widget.ImageView;
 
 /**
- * 作者：王敏 on 2015/8/21 17:31
+ * 作者：yh on 2015/8/21 17:31
  * 类说明：画出扫描框的四个脚的脚边框，也可以直接用一张图片代替
  */
 public class MyImageView extends ImageView{

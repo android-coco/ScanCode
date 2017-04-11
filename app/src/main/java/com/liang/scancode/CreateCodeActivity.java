@@ -15,16 +15,16 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.google.zxing.WriterException;
+import com.liang.scancode.zxing.encode.EncodingHandler;
 
 import java.io.UnsupportedEncodingException;
 
-import butterknife.ButterKnife;
 import butterknife.Bind;
+import butterknife.ButterKnife;
 import butterknife.OnClick;
-import com.liang.scancode.zxing.encode.EncodingHandler;
 
 /**
- * Created by 刘红亮 on 2015/9/24 14:37.
+ * Created by yh on 2015/9/24 14:37.
  */
 public class CreateCodeActivity extends Activity {
     @Bind(R.id.et_code_key)

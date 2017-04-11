@@ -1,7 +1,7 @@
 package com.liang.scancode.utils;
 
 /**
- * Created by 刘红亮 on 2015/9/24 14:08.
+ * Created by yh on 2015/9/24 14:08.
  */
 public interface Constant {
     /**

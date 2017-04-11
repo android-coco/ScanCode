@@ -45,7 +45,7 @@ import butterknife.ButterKnife;
 /**
  * 二维码扫描使用
  *
- * @author 刘红亮  2015年4月29日  下午5:49:45
+ * @author yh  2015年4月29日  下午5:49:45
  */
 public final class CommonScanActivity extends Activity implements ScanListener, View.OnClickListener
 {
